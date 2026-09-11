@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1000 162" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="round-corners-iran"><rect width="1000" height="162" rx="3" /></clipPath>
+  </defs>
+
+  <g clip-path="url(#round-corners-iran)">
+    <rect x="0" y="0" width="1000" height="54" fill="#239f40"/>
+    <rect x="0" y="54" width="1000" height="54" fill="#ffffff"/>
+    <rect x="0" y="108" width="1000" height="54" fill="#da0000"/>
+  </g>
+
+  <text fill="#000000" font-size="19"
+        font-family="Helvetica, Arial, sans-serif" text-rendering="geometricPrecision">
+    <tspan x="80" y="79">Between 1,700 and 3,500 civilians, including hundreds of children, have been killed in Iran,</tspan>
+    <tspan x="80" y="102">with over 21,000 injured. Please help civilians survive this crisis.</tspan>
+  </text>
+
+  <text x="50%" y="136" dominant-baseline="middle" text-anchor="middle"
+        fill="#ffffff" font-size="23"
+        font-family="Helvetica, Arial, sans-serif" text-rendering="geometricPrecision">
+    Help Iran Now <tspan dominant-baseline="middle" font-size="15">&#10148;</tspan>
+  </text>
+</svg>

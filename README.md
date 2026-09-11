@@ -1,5 +1,9 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
+[![Stand With Gaza](./assets/banner-gaza.svg)](https://ihrelief.org/en/portfolio-item/stand-with-gaza-2/)
+
+[![Stand With Iran](./assets/banner-iran.svg)](https://donate.redcrossredcrescent.org/ifrc/iran-complex-emergency-2026/)
+
 [![NPM Version](https://img.shields.io/npm/v/kysely?style=flat&label=latest)](https://github.com/kysely-org/kysely/releases/latest)
 [![Socket Badge](https://badge.socket.dev/npm/package/kysely/0.29.5)](https://socket.dev/npm/package/kysely/overview/0.29.5)
 [![Tests](https://github.com/kysely-org/kysely/actions/workflows/test.yml/badge.svg)](https://github.com/kysely-org/kysely)
